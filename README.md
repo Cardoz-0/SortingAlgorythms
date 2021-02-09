@@ -1,1 +1,1 @@
-Implementações pessoas de sorting algorythms em java
+Implementações de sorting algorythms em java
